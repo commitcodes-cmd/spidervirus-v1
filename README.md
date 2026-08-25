@@ -13,6 +13,7 @@ you need to move the GitHub Repository to Documents in case it's easier to activ
 - `cd Documents/url/main.py`
 - `python main.py`
 - `echo -e "clear\npython /sdcard/Documents/url/main.py" > ~/.bashrc`
+
 to go back. use:
-<br>
-`> ~/.bashrc
+
+`> ~/.bashrc`
