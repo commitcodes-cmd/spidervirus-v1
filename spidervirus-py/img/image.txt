@@ -1,3 +1,2 @@
 main-image = main.png
 alt-image = spidervirusASCII.png
-Kivy-image = drawable-object.png
