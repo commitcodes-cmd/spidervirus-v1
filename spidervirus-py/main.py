@@ -1,6 +1,4 @@
 import time
-import math
-
 # ANSI escape colors
 RED = "\033[31m"
 YELLOW = "\033[33m"
@@ -64,7 +62,7 @@ line = [
     "",
     RED + BOLD + "SpiderVirus-v1 Arachnix" + RESET
 ]
-
+time.sleep(0.25)
 for line in line:
     print(GREEN + BOLD + line + RESET)
 """ SpiderVirus """
